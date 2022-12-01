@@ -1,3 +1,5 @@
 lion
 zebra
 crocodile
+monkey
+wolf
